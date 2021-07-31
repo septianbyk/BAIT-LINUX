@@ -4,4 +4,4 @@
 
 
 
-<a href="https://bait-linux.000webhostapp.com/Dashboard/">Download</a>
+<a href="https://bait-linux.000webhostapp.com/">Download</a>
