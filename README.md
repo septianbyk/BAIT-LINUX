@@ -41,3 +41,5 @@ Make Your Android More Powerful To Grow And More Useful<br>For You And As A PC/L
 <br>
 <h4>Blogger</h4>
 <a href="https://bait-linux.blogspot.com">https://bait-linux.blogspot.com</a>
+<br><br>
+<a href="https://bait-linux.000webhostapp.com/Dashboard/Donasi.html"><h3>Buy Coffee</h3></a>
