@@ -13,13 +13,15 @@ to kill without touching<br>
 it Which name is the kris.<br>
 <br><br>
 <h2>Filtur</h2>
-Made to be as easy as possible<br>
-Simple<br>
-flexible<br>
-All Auto<br>
-Hacking<br>
-Developer<br>
-Cool Look
+<ol>
+<li>Made to be as easy as possible</li>
+<li>Simple</li>
+<li>flexible</li>
+<li>All Auto</li>
+<li>Hacking</li>
+<li>Developer</li>
+<li>Cool Look</li>
+</ol>
 <br><hr/><br>
 Make Your Android More Powerful To Grow And More Useful<br>For You And As A PC/LAPTOP Replacement Tool Make Linux Portable.
 <br><br>
