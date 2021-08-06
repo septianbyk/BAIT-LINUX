@@ -5,5 +5,3 @@ tar -xzvf BAIT_LINUX.0.1.tar.gz
 cd BAIT_LINUX
 clear
 sh run.sh
-cd
-rm -rv BAIT-LINUX
