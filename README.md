@@ -29,7 +29,7 @@ Make Your Android More Powerful To Grow And More Useful<br>For You And As A PC/L
 
 -------------------------------------------------------------------
 
-  git clone https://github.com/BAIT-LINUX/BAIT-LINUX && cd BAIT-LINUX && bash run.sh
+    git clone https://github.com/BAIT-LINUX/BAIT-LINUX && cd BAIT-LINUX && bash run.sh
   
   
 <h4>Youtube Chanel</h4>
