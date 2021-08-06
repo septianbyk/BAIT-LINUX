@@ -27,7 +27,7 @@ Make Your Android More Powerful To Grow And More Useful<br>For You And As A PC/L
 <br><br>
 <h2>Duplicate Repo</h2>
 
-----------------------------------------------------------------
+-------------------------------------------------------------------
 
      $git clone https://github.com/BAIT-LINUX/BAIT-LINUX
 
