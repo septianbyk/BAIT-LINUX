@@ -36,4 +36,8 @@ Make Your Android More Powerful To Grow And More Useful<br>For You And As A PC/L
      $bash run.sh
   
   
-  
+<h3>Chanel<h3>
+<a href="https://youtube.com/KangBaIT">https://youtube.com/KangBaIT</a>
+<br>
+<h3>Blogger</h3>
+<a href="https://bait-linux.blogspot.com">https://bait-linux.blogspot.com</a>
