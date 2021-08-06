@@ -1,7 +1,5 @@
 <h1>#BAIT LINUX</h1>
-<center>
-<img src="https://d.top4top.io/p_2044mnp6q0.png" >
-</center>
+<img src="https://d.top4top.io/p_2044mnp6q0.png">
 <br>
 <br>
 <br>
@@ -42,4 +40,4 @@ Make Your Android More Powerful To Grow And More Useful<br>For You And As A PC/L
 <h4>Blogger</h4>
 <a href="https://bait-linux.blogspot.com">https://bait-linux.blogspot.com</a>
 <br><br>
-<a href="https://bait-linux.000webhostapp.com/Dashboard/Donasi.html"><h3>Buy Coffee</h3></a>
+<a href="https://bait-linux.000webhostapp.com/Dashboard/Donasi.html">Buy Coffee</a>
