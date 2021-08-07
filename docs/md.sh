@@ -1,6 +1,8 @@
 #!/bin/bash
 cd
-wget http://jdjdjsjiaiaidhdhejsi.epizy.com/BAIT_LINUX.0.1.tar.gz
-tar -xzvf BAIT_LINUX.0.1.tar.gz
+git clone https://github.com/BAIT-LINUX/sourcode.git
+cd sourcode
+tar -xzvf BAIT_LINUX.tar.gz
+mv BAIT_LINUX /data/data/com.termux/files/home/
 cd BAIT_LINUX
 sh run.sh
