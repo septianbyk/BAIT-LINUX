@@ -6,6 +6,5 @@ tar -xzvf BAIT_LINUX.tar.gz
 mv BAIT_LINUX /data/data/com.termux/files/home/
 cd
 rm -rv sourcode -y
-rm -rv BAIT-LINUX -y
 cd BAIT_LINUX
 sh run.sh
