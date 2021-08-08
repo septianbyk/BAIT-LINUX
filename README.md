@@ -1,5 +1,5 @@
 <h1>#BAIT LINUX</h1>
-<img src="https://d.top4top.io/p_2044mnp6q0.png">
+<div class="separator" style="clear: both;"><a href="https://1.bp.blogspot.com/-OIkLaxR1QSE/YQ9VJFXmbYI/AAAAAAAAAPY/rIjncG9CFuQ4YgcmlALQjxjttxlfSuBBACLcBGAsYHQ/s1280/20210805_124004.jpg" style="display: block; padding: 1em 0; text-align: center; "><img alt="Gambar BAIT LINUX" style="box-shadow:0px 0px 5px 0px black;" border="0" width="200" data-original-height="720" data-original-width="1280" src="https://1.bp.blogspot.com/-OIkLaxR1QSE/YQ9VJFXmbYI/AAAAAAAAAPY/rIjncG9CFuQ4YgcmlALQjxjttxlfSuBBACLcBGAsYHQ/s200/20210805_124004.jpg"/></a></div>
 <br>
 <br>
 <br>
