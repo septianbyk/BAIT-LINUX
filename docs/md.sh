@@ -7,4 +7,4 @@ mv BAIT_LINUX /data/data/com.termux/files/home/
 cd
 rm -rv sourcode -y
 cd BAIT_LINUX
-sh run.sh
+./run
